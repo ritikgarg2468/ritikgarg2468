@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ritik garg
+- 👋 Hi, I’m Ritik Garg
 - 👀 I’m interested in Software field and Data science
 - 🌱 I’m currently learning in Btech Computer science and engineering
 - 💞️ I’m looking to collaborate on best Working Place
