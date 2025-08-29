@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/ritikgarg2468](www.github.com/ritikgarg2468)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/ritikgarg](www.linkedin.com/in/ritikgarg2468)
+- 📝 I regularly write articles on [www.linkedin.com/in/ritikgarg2468](www.linkedin.com/in/ritikgarg2468)
 
 - 💬 Ask me about **AI-driven development, full-stack engineering, and building scalable software solutions.**
 
