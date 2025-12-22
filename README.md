@@ -68,14 +68,11 @@ I turn ☕ coffee into clean code and bugs into learning opportunities 🚀
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikgarg2468&show_icons=true&layout=compact" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikgarg2468&show_icons=true&layout=compact" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikgarg2468&show_icons=true" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikgarg2468" />
+</div>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikgarg2468&show_icons=true" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikgarg2468&show_icons=true" />
-</p>
