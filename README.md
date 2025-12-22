@@ -73,6 +73,6 @@ I turn ☕ coffee into clean code and bugs into learning opportunities 🚀
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ritikgarg2468&show_icons=true" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=ritikgarg2468" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ritikgarg2468" />
 </div>
 
