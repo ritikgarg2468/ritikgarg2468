@@ -77,5 +77,5 @@ I turn ☕ coffee into clean code and bugs into learning opportunities 🚀
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikgarg2468" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikgarg2468&show_icons=true" />
 </p>
