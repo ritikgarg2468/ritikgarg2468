@@ -59,7 +59,7 @@ I enjoy finding stories hidden inside data and turning numbers into decisions �
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,linux,vscode,excel,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,mysql,postgres,mongodb,excel,git,github,linux,vscode,jupyter,anaconda,matlab,d3,opencv,tensorflow,sklearn,docker,aws,gcp,azure,fastapi,flask,nginx,powerbi,tableau" />
 </p>
 
 ---
