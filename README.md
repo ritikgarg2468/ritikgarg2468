@@ -59,7 +59,7 @@
 
 ## ⚡ Fun Fact
 
-I enjoy transforming raw advertising data into insights that drive smarter business decisions 📊🚀
+I enjoy transforming raw advertising data into insights that drive smarter business decisions 📊🚀.
 
 ---
 
