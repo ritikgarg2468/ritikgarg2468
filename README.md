@@ -33,7 +33,7 @@
   Data cleaning, EDA, trend analysis, KPI tracking, reporting  
 
 - **Databases & SQL:**  
-  MySQL, PostgreSQL, joins, subqueries, CTEs, indexing, query optimization  
+  MySQL, PostgreSQL, BigQuery, joins, subqueries, CTEs, indexing, query optimization  
 
 - **Python for Analytics:**  
   Pandas, NumPy, Matplotlib, Seaborn  
