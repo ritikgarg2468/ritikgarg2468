@@ -39,7 +39,7 @@
   Pandas, NumPy, Matplotlib, Seaborn  
 
 - **Data Visualization:**  
-  Power BI dashboards, Excel reports, charts & insight storytelling  
+  Power BI dashboards, Looker Studio, Excel reports, charts & insight storytelling  
 
 - **Statistics:**  
   Descriptive statistics, probability, hypothesis testing (basics)  
